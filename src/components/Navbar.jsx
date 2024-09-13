@@ -1,5 +1,5 @@
 import React from 'react'
-import { assets } from '../../../spotify-clone/src/assets/assets'
+import { assets } from '../assets/assets'
 import { useNavigate } from 'react-router-dom'
 
 const Navbar = () => {

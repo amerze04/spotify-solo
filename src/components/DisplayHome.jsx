@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-import { songsData, albumsData } from '../../../spotify-clone/src/assets/assets'
+import { songsData, albumsData } from '../assets/assets'
 import AlbumItem from '../../../spotify-clone/src/components/AlbumItem'
 import SongItem from '../components/SongItem'
 

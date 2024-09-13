@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-import { assets, songsData, albumsData } from '../../../spotify-clone/src/assets/assets';
+import { assets, songsData, albumsData } from '../assets/assets';
 import {useParams} from 'react-router-dom'
 import { useContext } from 'react';
 import { PlayerContext } from '../context/PlayerContext';
