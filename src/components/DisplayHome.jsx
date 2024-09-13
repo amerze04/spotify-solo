@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import { songsData, albumsData } from '../assets/assets'
-import AlbumItem from '../../../spotify-clone/src/components/AlbumItem'
+import AlbumItem from '../components/AlbumItem'
 import SongItem from '../components/SongItem'
 
 const DisplayHome = () => {
